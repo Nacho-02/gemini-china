@@ -8,7 +8,7 @@
 ---
 
 ## 🔥 最新更新
-- **更新时间：2025-12-19**
+- **更新时间：2025-12-21**
 - 已适配最新模型与中文使用场景
 
 ---
@@ -19,7 +19,7 @@
   👉 http://chatgpt.shuangrenchengxing.com/chat.php
 
 - **ChatGPT 国内镜像站导航合集**  
-  👉 https://gptmirror.pftedu.com/chatgpt-china-site.html
+  👉 [https://chat.gptmirrors.com/chatgpt-free-web-online.html](https://chat.gptmirrors.com/chatgpt-free-web-online.html)
 
 > 上述站点均为国内直连，无需科学上网，打开即可使用。
 
