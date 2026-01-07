@@ -6,7 +6,7 @@
 
 ---
 
-## ✅ 精选入口（已替换为你的链接）
+## ✅ 精选入口
 
 - **Gemini 中文版镜像（直接使用）**：大可Ai中文版镜像  
   👉 https://www.gemini-china-mirror-site.com
