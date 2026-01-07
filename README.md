@@ -1,9 +1,3 @@
----
-title: "Google Gemini 官网镜像站使用指南（国内直连）｜Gemini 中文版入口推荐"
-description: "整理国内可用的 Google Gemini 官网镜像与镜像导航入口，支持 Gemini 最新模型体验，无需翻墙即可使用。附上功能对比、上手教程、FAQ 与隐私建议。"
-keywords: ["Google Gemini 镜像", "Gemini 官网镜像", "Gemini 中文版", "Gemini 镜像站", "Gemini 国内直连", "Gemini 入口", "Gemini 镜像导航"]
----
-
 # Google Gemini 官网镜像站使用指南（国内直连）｜Gemini 中文版入口推荐
 
 如果你在国内访问 **Gemini 官网**不稳定，或者希望**无需翻墙**就能体验 Google 的多模态 AI 能力，那么使用 **Gemini 官网镜像站/镜像导航**会更省心。
